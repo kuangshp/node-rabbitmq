@@ -1,0 +1,21 @@
+{
+  "name": "node-rabbitmq",
+  "version": "0.0.1",
+  "description": "node中对rabbitmq简单的封装，在项目中直接使用",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "node",
+    "rabbitmq",
+    "node-rabbitmq",
+    "typescript"
+  ],
+  "homepage": "https://github.com/kuangshp/node-rabbitmq",
+  "author": "kuangshp@126.com",
+  "license": "MIT",
+  "files": [
+    "lib/**/*"
+  ]
+}
